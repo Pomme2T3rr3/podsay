@@ -1,6 +1,6 @@
 # Podsay
 
-Podsay is a small program that displays a random quote with a custom ASCII art.
+Podsay is a program that use fortune and cowsay at the same time to display a pod (from Nier automata) with a random citation.
 
 ## 📦 Dependencies
 
@@ -42,7 +42,7 @@ and install fortune and cowsay with it :
 brew install cowsay fortune
 ```
 
-### **Windows (Git Bash or Cygwin)
+### **Windows (Git Bash or Cygwin)**
 ```sh
 choco install fortune cowsay
 ```
