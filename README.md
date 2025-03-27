@@ -14,11 +14,11 @@ Before installing `podsay`, make sure you have the following programs installed:
 #### **Linux (Debian/Ubuntu)**
 ```sh
 sudo apt install fortune cowsay
-
+```
 ### **Linux (Arch/pacman)**
 ```sh
 sudo pacman -S fortune-mod cowsay
-
+```
 ### **Linux(Fedora)**
 ```sh
 sudo dnf install fortune-mod cowsay
