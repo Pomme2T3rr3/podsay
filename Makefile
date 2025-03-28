@@ -7,6 +7,9 @@ all: $(TARGET)
 $(TARGET): podsay.c
 	$(CC) $(CFLAGS) podsay.c -o $(TARGET)
 
+prepare:
+	strfile utils/pod
+
 clean:
 	rm -f $(TARGET)
 
