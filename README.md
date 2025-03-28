@@ -9,9 +9,9 @@ Before installing `podsay`, make sure you have the following programs installed:
 - `fortune`
 - `cowsay`
 
-### 🔧 Installing Dependencies
+## 🔧 Installing Dependencies
 
-#### **Linux (Debian/Ubuntu)**
+### **Linux (Debian/Ubuntu)**
 ```sh
 sudo apt install fortune cowsay
 ```
