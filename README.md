@@ -61,7 +61,7 @@ export PATH=$HOME/.local/bin:$PATH
 
 ## 🐄 Usage
 ```sh
-podsay
+./podsay
 ```
 
 ## ❓ Troubleshooting

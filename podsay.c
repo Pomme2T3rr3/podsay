@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <unistd.h>
 
-#define POD_FORTUNE "./pod"
-#define POD_COW "./pod.cow"
+#define POD_FORTUNE "./utils/pod"
+#define POD_COW "./utils/pod.cow"
 
 int check_command(const char *cmd) {
     char buffer[128];
