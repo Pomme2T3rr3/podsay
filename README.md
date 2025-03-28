@@ -11,7 +11,7 @@ Before installing `podsay`, make sure you have the following programs installed:
 
 ### 🔧 Installing Dependencies
 
-#### **Linux (Debian/Ubuntu)**
+### **Linux (Debian/Ubuntu)**
 ```sh
 sudo apt install fortune cowsay
 ```
