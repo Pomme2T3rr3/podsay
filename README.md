@@ -49,7 +49,7 @@ choco install fortune cowsay
 
 ## 🚀 Installation
 ```sh
-git clone https://github.com/your-user/podsay.git
+git clone https://github.com/Pomme2T3rr3/podsay.git
 cd podsay
 make install
 ```
