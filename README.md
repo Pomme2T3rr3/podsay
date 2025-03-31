@@ -51,7 +51,7 @@ choco install fortune cowsay
 ```sh
 git clone https://github.com/Pomme2T3rr3/podsay.git
 cd podsay
-make install
+make
 ```
 
 If necessary, add ~/.local/bin to your PATH :
